@@ -125,4 +125,8 @@ def problem8(n):
     print(maxvalue)
 problem8(1)
 
+def problem9:
 def problem10(n):
+
+
+
