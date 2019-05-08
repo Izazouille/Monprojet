@@ -123,3 +123,4 @@ def problem8(n):
             maxvalue = value
 
     print(maxvalue)
+problem8(1)
