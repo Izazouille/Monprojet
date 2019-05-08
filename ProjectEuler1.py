@@ -108,7 +108,7 @@ def problem7(n):
     print (number)
     
 #print(isPremier(15))    
-problem7(10001)
+#problem7(10001)
 
 
 def problem8(n):
